@@ -1,2 +1,2 @@
 # PasswordGenerator
-Password generator application.
+
